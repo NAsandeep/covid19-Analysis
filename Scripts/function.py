@@ -1,2 +1,2 @@
 
-print("function for analysing COVIS19 data")
+print("function for analysing COVID19.")
